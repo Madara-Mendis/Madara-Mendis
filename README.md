@@ -5,9 +5,11 @@
 
 - 🌱 I’m currently learning **about neural networks of deep learning**
 
-- 👯 I’m looking to collaborate on **arch project on concept drift detection**
+- 👯 I’m looking to collaborate on **research project on concept drift detection**
 
 - 📫 How to reach me **mdrmendis@gmail.com**
+
+- ⚡ Fun fact **I think i have an infectious laugh**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
