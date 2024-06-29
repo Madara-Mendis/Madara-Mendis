@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madara Mendis</h1>
 <h3 align="center">A passionate data science learner from Sri Lanka</h3>
 
-- 🔭 I’m currently working on **research project on emotion recognition**
+- 🔭 I’m currently working on **research project on emotion recognition**[![Madara-Mendis's GitHub | Stats](https://stats.quira.sh/Madara-Mendis/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Madara-Mendis)
 
 - 🌱 I’m currently learning **about neural networks of deep learning**
 
