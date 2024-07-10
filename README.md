@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Madara Mendis</h1>
 <h3 align="center">A passionate data science learner from Sri Lanka</h3>
 
-- 🔭 I’m currently working on **research project on emotion recognition**
+- 🔭 I’m currently working on **research project on concept drift detection**
 
-- 🌱 I’m currently learning **about neural networks of deep learning**
+- 🌱 I’m currently learning **about advanced learning algorithms**
 
-- 👯 I’m looking to collaborate on **research project on concept drift detection**
+- 👯 I’m looking to collaborate on **research project on emotion recognition**
 
 - 📫 How to reach me **mdrmendis@gmail.com**
 
