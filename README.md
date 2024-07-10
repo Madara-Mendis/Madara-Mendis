@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mdrmendis@gmail.com**
 
-- ⚡ Fun fact **I think i have an infectious laugh**
+- ⚡ Fun fact **I think I have a deep passion for exploring the intricacies of the human mind, emotions, and brain**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
